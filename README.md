@@ -37,4 +37,8 @@ Student Researcher @ Center for Computational and Data Sciences Lab, IUB
     + **Used Technologies:** Django, Python, Pandas
     + **Description**
       - Built a webapp to visualize air quality of various regions of Bangladesh as per user query.
+- **CrimeChitro**
+    + **Used Technologies:** PHP, Javascript, Leaflet Js, MySQL
+    + **Description**
+      - Built a webapp that allows user to report crimes at a location in the map
     
