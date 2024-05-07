@@ -30,9 +30,11 @@ Student Researcher @ Center for Computational and Data Sciences Lab, IUB
  
 ### Projects
 - **HealthCare App**
-    + Used Technolgies: Android Studio, Kotlin, Java
-    + Description
+    + **Used Technolgies:** Android Studio, Kotlin, Java
+    + **Description**
+      - An Android Application to manage health condition of patients
 - **Air Quality Monitoring System**
-    + Used Technologies: Django, Python, Pandas
-    + **Description:**: Built a webapp to visualize air quality of various regions of Bangladesh as per user query.
+    + **Used Technologies:** Django, Python, Pandas
+    + **Description**
+      - Built a webapp to visualize air quality of various regions of Bangladesh as per user query.
     
