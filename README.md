@@ -11,7 +11,7 @@ Student Researcher @ Center for Computational and Data Sciences Lab, IUB
 - Annotated dataset for my project and other lab projects related to computer vision
 
 ### Publications
-- BaTEClaCor: A Novel Dataset for Bangla Text Error Classification and Correction(BLP workshop at EMNLP2023)
+- **BaTEClaCor: A Novel Dataset for Bangla Text Error Classification and Correction**(_BLP workshop at EMNLP2023_)
     + Conducted research on error detection and correction in Bangla communication using machine learning and deep learning models
     + Performed ETL to curate, classify, and annotate a dataset with 10,000 real Bangla comments from Youtube
     + Experimented and demonstrated BanglaBERT's accuracy in error-category classification
