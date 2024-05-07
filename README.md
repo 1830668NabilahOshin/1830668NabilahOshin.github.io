@@ -27,11 +27,12 @@ Student Researcher @ Center for Computational and Data Sciences Lab, IUB
     + Programmed an Arduino UNO to read and interpret analogue inputs from multiple sensors simultaneously.
     + Applied logistic functions and coefficient estimation for predictive modelling and decision-making based on threshold probabilities.
     + Contributed to research aimed at enhancing food spoilage prediction and real-time monitoring systems.
+ 
 ### Projects
--  **HealthCare App**
+- **HealthCare App**
     + Used Technolgies: Android Studio, Kotlin, Java
     + Description
--  **Air Quality Monitoring System**
+- **Air Quality Monitoring System**
     + Used Technologies: Django, Python, Pandas
     + **Description:**: Built a webapp to visualize air quality of various regions of Bangladesh as per user query.
     
