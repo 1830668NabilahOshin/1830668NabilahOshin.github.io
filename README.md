@@ -17,3 +17,13 @@ Student Researcher @ Center for Computational and Data Sciences Lab, IUB
     + Experimented and demonstrated BanglaBERT's accuracy in error-category classification
     + Experimented and highlighted BanglaT5's effectiveness with a Rouge-L score of 0.845 for text correction
     + Contributed to the enchancement of linguistic precision in the Bangla-speaking community
+- **AI-based Software Testing** (_ISBM 2023_)
+    + Developed an in-depth review paper on AI-based software testing, showcasing benefits like efficiency enhancement, improved test coverage, and cost-effectiveness.
+    + Highlighted AI technologies like machine learning and natural language processing to automate testing phases, including generation, execution and analysis.
+    + Addressed critical challenges in AI-based testing such as data quality, interpretability, bias and model maintenance, offering actionable strategies tailored for small software firms
+    + Key findings revealed enhanced testing efficiency,precise defect detection, and reduced costs through AI integration, alongside challenges like data quality and interpretability needing ongoing attention.
+- **Food Rotting Prediction and Detection System for WareHouse** (_IEEE Region 10 Symposium - TENSYMP2023_)
+    + Utilized real-time sensor data to train models and predict the likelihood of food entering the next stage of spoilage, triggering alerts as needed.
+    + Programmed an Arduino UNO to read and interpret analogue inputs from multiple sensors simultaneously.
+    + Applied logistic functions and coefficient estimation for predictive modelling and decision-making based on threshold probabilities.
+    + Contributed to research aimed at enhancing food spoilage prediction and real-time monitoring systems.
