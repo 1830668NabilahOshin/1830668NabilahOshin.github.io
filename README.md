@@ -45,4 +45,4 @@ Student Researcher @ Center for Computational and Data Sciences Lab, IUB
 ### Honors and Awards
 - **Best Undergraduate Student Researcher Award 2024**
    + Issued by CSE Annual Research Day, Department of CSE, Independent University Bangladesh
-- **Champion in TechFest Autumn 2022** at _Independent University,Bangladesh_ For my work on **"CrimeChitro"** for the category of web-applications
+- **Champion in TechFest Autumn 2022** at _Independent University,Bangladesh_ for the work titled **"CrimeChitro"** in the category of web-applications
